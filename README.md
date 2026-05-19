@@ -6,9 +6,7 @@ Exemplo de utilização de AdminLTE na Autorização de Segurança Claims e JWT 
 
 Baixar Pacote de Distribuição de Download da biblioteca e descompactar
 
-* Template Responsivo AdminLTE 3.2 - rc
-
-  - [AdminLTE](https://github.com/ColorlibHQ/AdminLTE/archive/refs/tags/v3.2.0-rc.zip)
+* Template Responsivo AdminLTE 3.2 - rc [AdminLTE](https://github.com/ColorlibHQ/AdminLTE/archive/refs/tags/v3.2.0-rc.zip)
 
 - Criar uma nova pasta chamada adminlte no Solution do Projeto
 - Acessar o diretorio na pasta AdminLTE-3.2.0-rc /dist ->  Arrastar as pastas (css), (img) e (js) e Colar dentro da pasta adminlte
