@@ -1,8 +1,16 @@
-## 🌍 JWT-Claim-AspNet-MVC-Responsivo-MySQL
+## 🌍 Mvc5-Auth-Jwt
 
 Exemplo de utilização de AdminLTE na Autorização de Segurança Claims e JWT com geração do Token para Segurança na Navegação em MVC com banco de dados MySQL.
 
-#### 📁 Requisitos e Detalhe do uso do AdminLTE
+#### O que você vai encontrar neste projeto
+| Tecnologia | Descrição |
+|-----------|-----------|
+| **AdminLTE** | Layout Responsivo JavaScript e uso de bibliotecas (Plugins).  |
+| **Dicionário de Dados** |  Armazenamento de coleções de pares (chave-valor), permitindo busca e recuperação de dados.  |
+| **Claims** | Autorização com contexto Header para compartilhar dados da aplicação com segurança. |
+| **JWT Token** | Segurança na navegação com uso criptografado de sessão do navegador. |
+
+#### 📁 Requisitos do Projeto
 
 Baixar Pacote de Distribuição de Download da biblioteca e descompactar
 
@@ -24,14 +32,6 @@ adminlte
         |-------| /plugins
 ```
 
-#### O que você vai encontrar neste projeto
-
-| Tecnologia | Descrição |
-|-----------|-----------|
-| **AdminLTE** | Layout Responsivo JavaScript e uso de bibliotecas (Plugins).  |
-| **Dicionário de Dados** |  Armazenamento de coleções de pares (chave-valor), permitindo busca e recuperação de dados.  |
-| **Claims** | Autorização com contexto Header para compartilhar dados da aplicação com segurança. |
-| **JWT Token** | Segurança na navegação com uso criptografado de sessão do navegador. |
 
 #### Executar a aplicação
 - Para executar a aplicação é necessário executar o Script do MySQL. 
