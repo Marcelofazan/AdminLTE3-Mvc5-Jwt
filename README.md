@@ -10,7 +10,9 @@ Exemplo de criação de Segurança e Autorização com Claims e geração do Tok
 | **JWT** | É um crachá digital usado para identificar usuários e trocar informações de forma segura entre computadores. |
 
 #### Requisitos do Projeto
+- Para executar a aplicação é necessário executar o Script do MySQL. 
 
+#### 🔄 Executar a aplicação
 Baixar Pacote de Distribuição de Download da biblioteca e descompactar
 
 * Template Responsivo AdminLTE 3.2 - rc [AdminLTE](https://github.com/ColorlibHQ/AdminLTE/archive/refs/tags/v3.2.0-rc.zip)
@@ -30,9 +32,6 @@ adminlte
         |-------| /js
         |-------| /plugins
 ```
-
-#### 🔄 Executar a aplicação
-- Para executar a aplicação é necessário executar o Script do MySQL. 
 
 #### ⚠️ String de conexão do banco
 
