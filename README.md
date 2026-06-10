@@ -12,6 +12,15 @@ Exemplo de criação de Segurança e Autorização com Claims e geração do Tok
 #### Requisitos do Projeto
 - Para executar a aplicação é necessário executar o Script do MySQL. 
 
+#### ⚠️ String de conexão do banco
+
+- Modifique a string de conexão no arquivo **Web.config**, no trecho indicado:
+```bash
+server=127.0.0.1;userid=root;password=SUASENHA;database=SEUBANCO;persistsecurityinfo=True;
+
+```
+O script para criação da tabela do exemplo encontra-se na pasta **Database**.
+
 #### 🔄 Executar a aplicação
 Baixar Pacote de Distribuição de Download da biblioteca e descompactar
 
@@ -32,15 +41,6 @@ adminlte
         |-------| /js
         |-------| /plugins
 ```
-
-#### ⚠️ String de conexão do banco
-
-- Modifique a string de conexão no arquivo **Web.config**, no trecho indicado:
-```bash
-server=127.0.0.1;userid=root;password=SUASENHA;database=SEUBANCO;persistsecurityinfo=True;
-
-```
-O script para criação da tabela do exemplo encontra-se na pasta **Database**.
 
 #### Aqui está uma demonstração do Projeto
 <img width="1333" height="612" alt="19 04 2026_19 13 55_REC" src="https://github.com/user-attachments/assets/3c9cdbbe-cc65-46ed-97bd-d335ed109cd2" />
