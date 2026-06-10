@@ -1,4 +1,4 @@
-## 🌍 Net-Mvc-Claim-Jwt
+## 🌐 Net-Mvc-Claim-Jwt
 Exemplo de criação de Segurança e Autorização com Claims e geração do Token JWT, desenvolvido em NET MVC5 Razor e AdminLTE3 com banco de dados MySQL.
 
 #### O que você vai encontrar neste projeto
