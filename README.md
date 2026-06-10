@@ -42,7 +42,7 @@ adminlte
         |-------| /plugins
 ```
 
-#### Aqui está uma demonstração do Projeto
+#### 🎨 Aqui está uma demonstração do Projeto
 <img width="1333" height="612" alt="19 04 2026_19 13 55_REC" src="https://github.com/user-attachments/assets/3c9cdbbe-cc65-46ed-97bd-d335ed109cd2" />
 
 
